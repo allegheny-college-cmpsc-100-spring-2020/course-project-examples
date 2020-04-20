@@ -1,0 +1,1 @@
+export PATH_TO_FX=/project/plugins/lib
