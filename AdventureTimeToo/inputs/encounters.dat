@@ -1,0 +1,6 @@
+A1	You walk into the classroom.	Sit or stand?	sit:A2	stand:A3
+A2	You try in your normal spot, but there's someone there!	Fight or flight?	fight:A5:10	flight:A6
+A3	This is awkward.	Do you want to sit?	yes:A2	no:A4
+A4	Alright, then. Standing it is.
+A5	You kicked the intruder out!
+A6	Guess you'll just have to find another seat.
